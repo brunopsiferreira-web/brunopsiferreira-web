@@ -29,8 +29,8 @@ Sou um profissional em transição de carreira, unindo minha bagagem em **Análi
 
 <div align="center">
   <a href="https://github.com/brunopsiferreira-web">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunopsiferreira-web&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopsiferreira-web&layout=compact&theme=dracula"/>
   </a>
 </div>
 
@@ -38,7 +38,7 @@ Sou um profissional em transição de carreira, unindo minha bagagem em **Análi
 
 ### 📫 Contato
 
-<a href="www.linkedin.com/in/brunobarrosof" target="_blank">
+<a href="linkedin.com/in/brunobarrosof" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
 <a href="mailto:brunobarrosof@outlook.com">
