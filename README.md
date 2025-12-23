@@ -4,7 +4,7 @@
 
 Sou um profissional em transição de carreira, unindo minha bagagem em **Análise Comportamental (Psicologia/RH)** com a **Tecnologia**. Meu foco é garantir a qualidade de software não apenas através de código, mas entendendo a experiência do usuário.
 
-- 🔭 Atualmente trabalhando como **Analista de Implantação** e estudando **Automação de Testes** e **Desenvolvimento**
+- 🔭 Atualmente trabalhando como **Analista de Implantação**, estudando **Automação de Testes** e **Desenvolvimento**
 - 📚 Aprendendo **Playwright, TypeScript, Arquitetura de Testes e Python**.
 - 🎯 Objetivo: Atuar como QA Engineer garantindo qualidade e eficiência.
 - ⚡ Curiosidade: Uso Python para automatizar tarefas repetitivas do meu dia a dia no RH.
@@ -29,7 +29,7 @@ Sou um profissional em transição de carreira, unindo minha bagagem em **Análi
 
 <div align="center">
   <a href="https://github.com/brunopsiferreira-web">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunopsiferreira-web&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunopsiferreira-web&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopsiferreira-web&layout=compact&theme=dracula"/>
   </a>
 </div>
