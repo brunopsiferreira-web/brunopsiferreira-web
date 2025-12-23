@@ -28,10 +28,7 @@ Sou um profissional em transição de carreira, unindo minha bagagem em **Análi
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/brunopsiferreira-web">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunopsiferreira-web&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopsiferreira-web&layout=compact&theme=dracula"/>
-  </a>
+  <img src="https://github.com/brunopsiferreira-web/brunopsiferreira-web/blob/output/github-contribution-grid-snake.svg" alt="snake game" width="850">
 </div>
 
 ---
