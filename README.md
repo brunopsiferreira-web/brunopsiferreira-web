@@ -35,8 +35,6 @@ Sou um profissional em transição de carreira, unindo minha bagagem em **Análi
 
 ### 📫 Contato
 
-### 📫 Contato
-
 <a href="https://www.linkedin.com/in/brunobarrosof" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
