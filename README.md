@@ -1,13 +1,18 @@
 # Olá, eu sou o Bruno! 👋
 
-### 🧠 Psicólogo | 🎯 QA Analyst | 💻 Tech Enthusiast
+### 💻 Desenvolvedor Fullstack em formação | 🧠 Background em Psicologia e Análise de Negócios  
 
-Sou um profissional em transição de carreira, unindo minha bagagem em **Análise Comportamental (Psicologia/RH)** com a **Tecnologia**. Meu foco é garantir a qualidade de software não apenas através de código, mas entendendo a experiência do usuário.
+Sou um profissional em transição de carreira para a área de Desenvolvimento de Software, unindo minha experiência com análise de comportamento, regras de negócio e dados com a construção de soluções tecnológicas.
 
-- 🔭 Atualmente trabalhando como **Analista de Implantação**, estudando **Automação de Testes** e **Desenvolvimento**
-- 📚 Aprendendo **Playwright, TypeScript, Arquitetura de Testes e Python**.
-- 🎯 Objetivo: Atuar como QA Engineer garantindo qualidade e eficiência.
-- ⚡ Curiosidade: Uso Python para automatizar tarefas repetitivas do meu dia a dia no RH.
+Tenho experiência prática com desenvolvimento backend e frontend, além de atuação com validação de dados, implantação de sistemas e integração entre áreas de negócio e tecnologia.
+
+📚 Estudando C# (.NET), desenvolvimento backend e arquitetura de software  
+🛠️ Tecnologias: PHP (Laravel), JavaScript, TypeScript, Vue.js, SQL, APIs REST  
+🧪 Diferencial: conhecimento em Qualidade de Software e Automação de Testes (Playwright)  
+
+🎯 Objetivo: Atuar como Desenvolvedor de Software, contribuindo com soluções escaláveis, bem estruturadas e orientadas a regras de negócio  
+
+⚡ Curiosidade: gosto de automatizar tarefas e otimizar processos, aplicando tecnologia para resolver problemas reais
 
 ---
 
