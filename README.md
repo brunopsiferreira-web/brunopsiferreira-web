@@ -1,21 +1,30 @@
 # Olá, eu sou o Bruno! 👋
 
-### 💻 Desenvolvedor Fullstack em formação | 🧠 Background em Psicologia e Análise de Negócios  
+### 💻 Profissional em transição para TI | 🛠️ Sistemas, Suporte & Desenvolvimento | 📊 Dados & Processos
 
-Sou um profissional em transição de carreira para a área de Desenvolvimento de Software, unindo minha experiência com análise de comportamento, regras de negócio e dados com a construção de soluções tecnológicas.
+Sou um profissional em transição de carreira para a área de Tecnologia da Informação, atualmente cursando **Análise e Desenvolvimento de Sistemas**.
 
-Tenho experiência prática com desenvolvimento backend e frontend, além de atuação com validação de dados, implantação de sistemas e integração entre áreas de negócio e tecnologia.
+Minha trajetória profissional combina experiência em **operações, administração, implantação de sistemas, análise de dados e processos**, com conhecimentos técnicos em desenvolvimento, suporte e infraestrutura.
 
-📚 Estudando C# (.NET), desenvolvimento backend e arquitetura de software  
-🛠️ Tecnologias: PHP (Laravel), JavaScript, TypeScript, Vue.js, SQL, APIs REST  
-🧪 Diferencial: conhecimento em Qualidade de Software e Automação de Testes (Playwright)  
+Tenho interesse em utilizar a tecnologia para **resolver problemas, automatizar processos e transformar necessidades de negócio em soluções práticas**.
 
-🎯 Objetivo: Atuar como Desenvolvedor de Software, contribuindo com soluções escaláveis, bem estruturadas e orientadas a regras de negócio  
+📚 **Estudando:** C# / .NET, desenvolvimento backend, bancos de dados e arquitetura de software
 
-⚡ Curiosidade: gosto de automatizar tarefas e otimizar processos, aplicando tecnologia para resolver problemas reais
+🛠️ **Tecnologias:** PHP (Laravel), JavaScript, TypeScript, Vue.js, SQL, PostgreSQL, APIs REST, Git/GitHub
+
+🖥️ **TI & Suporte:** Windows, Linux, redes, manutenção e configuração de computadores
+
+📊 **Dados:** Excel, SQL, PostgreSQL e Power BI
+
+🧪 **Qualidade:** testes de software e automação com Playwright
+
+🔄 **Experiência profissional:** implantação e parametrização de sistemas, validação de dados, suporte a processos e integração entre áreas de negócio e tecnologia
+
+🎯 **Objetivo:** construir minha carreira em Tecnologia, especialmente em áreas como **Suporte Técnico, Sistemas, Implantação, Infraestrutura ou Desenvolvimento**, contribuindo com minha experiência em processos e negócios enquanto evoluo tecnicamente.
+
+⚡ **Curiosidade:** gosto de entender como os processos funcionam e encontrar maneiras de simplificá-los, automatizá-los e torná-los mais eficientes.
 
 ---
-
 ### 🛠️ Tech Stack & Ferramentas
 
 <div style="display: inline_block"><br>
